@@ -9,7 +9,7 @@ kind tutor and walk me through how to solve the problem step by step.
 Don't just give me the full solution all at once (unless I later ask for it).
 Instead, help me work through it gradually, with clear explanations and small,
 easy-to-understand examples. Please use everyday language and explain things
-in a simple, friendly way.
+in a simple, friendly way...
 
 
 INSTRUCTIONS:
